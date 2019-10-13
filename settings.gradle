@@ -1,0 +1,2 @@
+include ':app', ':rates'
+rootProject.name='Revolut Android Exam'
